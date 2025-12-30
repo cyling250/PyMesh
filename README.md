@@ -43,7 +43,7 @@ To retrieve the code:
 
     git clone https://github.com/PyMesh/PyMesh.git
     cd PyMesh
-    git submodule update --init
+    git submodule update --init --recursive
 
 ### Dependencies ###
 
